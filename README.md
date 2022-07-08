@@ -1,5 +1,6 @@
 # Python_Cryptography
 Using Python to make an encryption process and an almost successful decryption process
+
 Encryption:
 Step 1: Get the word we want to encrypt
 Step 2: Convert each letter into numeric values based on where they are in the alphabet
